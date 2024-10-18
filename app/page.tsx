@@ -99,3 +99,7 @@ export default function Home() {
     </div>
   );
 }
+function setProject(appwrite_project_id: string) {
+  throw new Error("Function not implemented.");
+}
+
